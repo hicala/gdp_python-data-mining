@@ -16,7 +16,7 @@ Gross domestic product (GDP) is the market value of all final goods and services
 
 We got the information for the analysis from https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
 
-![List of countries by GDP (PPP).](/images/input.png)
+![List of countries by GDP (PPP).](images/input.png)
 [Wikipedia](https://en.wikipedia.org/)
 
 Extract the GDp per Country for further comparison and data visualization
@@ -28,7 +28,7 @@ Extract the GDp per Country for further comparison and data visualization
 
 2. Fetching and parsing the data using Beautifulsoup and maintain the data in some data structure such as Dict or List.
 
-![Table with theList of countries by GDP (PPP).](/images/data.png)
+![Table with theList of countries by GDP (PPP).](images/data.png)
 [Table with theList of countries by GDP (PPP)])
 
 3. Analyzing the HTML tags and their attributes, such as class, id, and other HTML tag attributes. Also, identifying your HTML tags where your content lives.
@@ -42,7 +42,7 @@ Extract the GDp per Country for further comparison and data visualization
 + Python App
 + Jupyter Notebook instructional step by step Guide
 
-![List of countries by GDP (PPP).](/images/output.png)
+![List of countries by GDP (PPP).](images/output.png)
 [GDP (2020 estimates).csv])
 
 
