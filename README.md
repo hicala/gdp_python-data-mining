@@ -16,9 +16,6 @@ Gross domestic product (GDP) is the market value of all final goods and services
 
 We got the information for the analysis from https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
 
-![List of countries by GDP (PPP).](images/input.png)
-[Wikipedia](https://en.wikipedia.org/)
-
 Extract the GDp per Country for further comparison and data visualization
 
 
