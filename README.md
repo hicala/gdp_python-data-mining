@@ -28,9 +28,6 @@ Extract the GDp per Country for further comparison and data visualization
 
 2. Fetching and parsing the data using Beautifulsoup and maintain the data in some data structure such as Dict or List.
 
-![Table with theList of countries by GDP (PPP).](images/data.png)
-[Table with theList of countries by GDP (PPP)])
-
 3. Analyzing the HTML tags and their attributes, such as class, id, and other HTML tag attributes. Also, identifying your HTML tags where your content lives.
 
 4. Outputting the data in any file format such as CSV, XLSX, JSON, etc.
@@ -41,10 +38,6 @@ Extract the GDp per Country for further comparison and data visualization
 + 3 different files corresponing to each years of analysis
 + Python App
 + Jupyter Notebook instructional step by step Guide
-
-
-
-<img src = "images/output.png"></img>
 
 
 ## Take-aways
