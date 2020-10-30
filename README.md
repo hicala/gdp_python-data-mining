@@ -42,8 +42,9 @@ Extract the GDp per Country for further comparison and data visualization
 + Python App
 + Jupyter Notebook instructional step by step Guide
 
-![List of countries by GDP (PPP).](images/output.png)
-[GDP (2020 estimates).csv])
+
+
+<img src = "images/output.png"></img>
 
 
 ## Take-aways
