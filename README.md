@@ -1,4 +1,4 @@
-# GDP Analysis in the contest of the economic development and income growth  
+# GDP Analysis in the context of the economic development and income growth  
 
     _Tools: Python, Jupyter Notebook, BeautifullSoup, Pandas_
 
