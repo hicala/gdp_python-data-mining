@@ -16,9 +16,7 @@ Gross domestic product (GDP) is the market value of all final goods and services
 
 We got the information for the analysis from https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
 
-Extract the GDp per Country for further comparison and data visualization
-
-[Data Source](https://github.com/hicala/hilca_gdp/blob/main/images/input.PNG)
+Extract the GDp per Country for further comparison and data visualization from this [Data Source](https://github.com/hicala/hilca_gdp/blob/main/images/input.PNG)
 
 ## Actions
 1. Sending an HTTP GET request to the URL of the webpage that you want to scrape, which will respond with HTML content. We can do this by using the Request library of Python.
