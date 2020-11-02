@@ -33,9 +33,12 @@ Extract the GDp per Country for further comparison and data visualization
 ## Results
 
 + 3 different files corresponing to each years of analysis
-+ Python App
-+ Jupyter Notebook instructional step by step Guide
+ [](src ="")
 
++ Python App
+ [](src ="")
++ Jupyter Notebook instructional step by step Guide
+ [](src ="")
 
 ## Take-aways
 
@@ -50,4 +53,4 @@ Extract the GDp per Country for further comparison and data visualization
 
 Special thanks to Gaurav Singhal for all the training info and assistances provided in the process
 
-Hila Calderon
+
