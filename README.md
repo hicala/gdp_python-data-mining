@@ -11,7 +11,7 @@ This App is a result of my personal efforts to master the web scraping process u
 
 <em>Why do many economists expect income convergence between developed and developing countries?</em>
 
-In this process we decided to put together all the inforamtion related to the GDP and see it relationship per capita. Per capita GDP is a metric that breaks down a country's GDP per person and is calculated by dividing the GDP of a country by its population.
+In this process we decided to put together all the information related to the GDP and see it relationship per capita. Per capita GDP is a metric that breaks down a country's GDP per person and is calculated by dividing the GDP of a country by its population.
 
 Gross domestic product (GDP) is the market value of all final goods and services from a nation in a given year. Countries are sorted by nominal GDP estimates from financial and statistical institutions, which are calculated at market or government official exchange rates. 
 
