@@ -1,7 +1,8 @@
 # GDP Data Mining. 
 
-__Tools: Python, Jupyter Notebook, BeautifullSoup__
+    _Tools: Python, Jupyter Notebook, BeautifullSoup, Pandas_
 
+		
 ## Summary
 
 This App is a result of my personal efforts to master the web scraping process using Python and BeatifuSoup. The document contains all the step by steps about how to scrape a Wikipedia page using Python3 and Beautiful Soup and finally exporting it to a CSV file. 
