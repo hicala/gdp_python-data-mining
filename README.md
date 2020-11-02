@@ -18,7 +18,7 @@ We got the information for the analysis from https://en.wikipedia.org/wiki/List_
 
 Extract the GDp per Country for further comparison and data visualization
 
-
+![Data Source](https://github.com/hicala/hilca_gdp/blob/main/images/input.PNG?raw=true)
 
 ## Actions
 1. Sending an HTTP GET request to the URL of the webpage that you want to scrape, which will respond with HTML content. We can do this by using the Request library of Python.
