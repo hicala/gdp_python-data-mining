@@ -34,11 +34,9 @@ Extract the GDp per Country for further comparison and data visualization
 
 ## Results
 
-+ 3 different files corresponing to each years of analysis.
++ ![3 different files corresponing to each years of analysis.](https://github.com/hicala/hilca_gdp/blob/main/images/output.PNG?raw=true)
 
-![CSV results](https://github.com/hicala/hilca_gdp/blob/main/images/output.PNG?raw=true)
-
-+ Python App
++ ![Python App](https://github.com/hicala/hilca_gdp/blob/main/gdp_picker.py)
 
 + Jupyter Notebook instructional step by step Guide
 
