@@ -1,4 +1,6 @@
-# GDP Data Mining. Webscraping: Case suty
+# GDP Data Mining. 
+
+__Tools: Python, Jupyter Notebook, BeautifullSoup__
 
 ## Summary
 
