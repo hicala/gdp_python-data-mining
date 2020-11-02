@@ -18,12 +18,12 @@ We got the information for the analysis from https://en.wikipedia.org/wiki/List_
 
 Extract the GDp per Country for further comparison and data visualization
 
-![Data Source](https://github.com/hicala/hilca_gdp/blob/main/images/input.PNG)
+[Data Source](https://github.com/hicala/hilca_gdp/blob/main/images/input.PNG)
 
 ## Actions
 1. Sending an HTTP GET request to the URL of the webpage that you want to scrape, which will respond with HTML content. We can do this by using the Request library of Python.
 
-![Data Input](https://github.com/hicala/hilca_gdp/blob/main/images/data.PNG?raw=true)
+[Data Input](https://github.com/hicala/hilca_gdp/blob/main/images/data.PNG?raw=true)
 
 2. Fetching and parsing the data using Beautifulsoup and maintain the data in some data structure such as Dict or List.
 
@@ -34,9 +34,9 @@ Extract the GDp per Country for further comparison and data visualization
 
 ## Results
 
-+ ![3 different files corresponing to each years of analysis.](https://github.com/hicala/hilca_gdp/blob/main/images/output.PNG?raw=true)
++ [3 different files corresponing to each years of analysis.](https://github.com/hicala/hilca_gdp/blob/main/images/output.PNG?raw=true)
 
-+ ![Python App](https://github.com/hicala/hilca_gdp/blob/main/gdp_picker.py)
++ [Python App](https://github.com/hicala/hilca_gdp/blob/main/gdp_picker.py)
 
 + Jupyter Notebook instructional step by step Guide
 
