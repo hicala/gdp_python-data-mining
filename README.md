@@ -23,6 +23,8 @@ Extract the GDp per Country for further comparison and data visualization
 ## Actions
 1. Sending an HTTP GET request to the URL of the webpage that you want to scrape, which will respond with HTML content. We can do this by using the Request library of Python.
 
+![Data Input](https://github.com/hicala/hilca_gdp/blob/main/images/data.PNG?raw=true)
+
 2. Fetching and parsing the data using Beautifulsoup and maintain the data in some data structure such as Dict or List.
 
 3. Analyzing the HTML tags and their attributes, such as class, id, and other HTML tag attributes. Also, identifying your HTML tags where your content lives.
@@ -32,13 +34,14 @@ Extract the GDp per Country for further comparison and data visualization
 
 ## Results
 
-+ 3 different files corresponing to each years of analysis
- [](src ="")
++ 3 different files corresponing to each years of analysis.
+
+![CSV results](https://github.com/hicala/hilca_gdp/blob/main/images/output.PNG?raw=true)
 
 + Python App
- [](src ="")
+
 + Jupyter Notebook instructional step by step Guide
- [](src ="")
+
 
 ## Take-aways
 
